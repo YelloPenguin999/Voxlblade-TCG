@@ -1,4 +1,4 @@
-Current version: 0.1.0 Online Play test 1
+Current version: 1.1.0
 
 **Controls**
 * Left click - drag a card
