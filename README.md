@@ -1,4 +1,4 @@
-Current version: 1.1.0
+https://yellopenguin999.github.io/Voxlblade-TCG
 
 **Controls**
 * Left click - drag a card
